@@ -3,7 +3,7 @@ Octoflat
 
 ## My custom changes
 
-Made .img sass center align all images
++ Made .img sass center align all images - (SHA: 5e8141c)
 
 ======
 
