@@ -1,6 +1,12 @@
 Octoflat
 ======
 
+## My custom changes
+
+Made .img sass center align all images
+
+======
+
 This is a theme using [Twitter Bootstrap](http://twitter.github.io/bootstrap/) and Designmodo's [Flat UI](https://github.com/designmodo/Flat-UI) theme which can be previewed on [Designmodo's website](http://designmodo.com/flat-free/). The awesome symbol font is from [FontAwesome](http://fontawesome.io).
 
 This theme has a live preview at [AlexGaribay.com](http://alexgaribay.com).
